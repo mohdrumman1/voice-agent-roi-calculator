@@ -10,7 +10,7 @@ export default function Header() {
         </div>
         <a
           className="header-cta"
-          href="https://formaai.com.au"
+          href="https://formaai.info"
           target="_blank"
           rel="noopener noreferrer"
         >

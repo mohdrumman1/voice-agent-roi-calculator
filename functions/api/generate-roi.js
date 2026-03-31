@@ -34,7 +34,7 @@ export async function onRequestPost(context) {
     headers: {
       'Authorization': `Bearer ${apiKey}`,
       'Content-Type': 'application/json',
-      'HTTP-Referer': 'https://voice-agent-roi-calculator.pages.dev',
+      'HTTP-Referer': 'https://roi.formaai.info',
       'X-Title': 'Forma AI — Voice Agent ROI Calculator',
     },
     body: JSON.stringify(body),

@@ -104,7 +104,7 @@ export default function ROIReport({ report, formData, onReset }) {
         </button>
         <a
           className="roi-report__demo-btn"
-          href="https://formaai.com.au"
+          href="https://formaai.info"
           target="_blank"
           rel="noopener noreferrer"
         >

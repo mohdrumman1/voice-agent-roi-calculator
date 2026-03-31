@@ -43,7 +43,7 @@ OPENROUTER_API_KEY=sk-or-...
 
 ## About
 
-Built by **Rumman** — founder of [Forma AI](https://formaai.com.au), an AI automation agency helping Australian businesses reduce costs and scale with intelligent voice and workflow automation.
+Built by **Rumman** — founder of [Forma AI](https://formaai.info), an AI automation agency helping Australian businesses reduce costs and scale with intelligent voice and workflow automation.
 
-- Website: [formaai.com.au](https://formaai.com.au)
+- Website: [formaai.info](https://formaai.info)
 - GitHub: [@mohdrumman1](https://github.com/mohdrumman1)

@@ -50,7 +50,7 @@ export default function PrintSummary({ report, formData }) {
       </div>
 
       <div className="print-summary__footer">
-        formaai.com.au · hello@formaai.com.au
+        formaai.info · hello@formaai.info
       </div>
     </div>
   );
