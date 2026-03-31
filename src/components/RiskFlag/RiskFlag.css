@@ -1,0 +1,47 @@
+.risk-flag {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius);
+  border: 1px solid;
+  font-size: 0.875rem;
+}
+
+.risk-flag--low {
+  background: var(--green-bg);
+  border-color: var(--green-border);
+  color: var(--green);
+}
+
+.risk-flag--medium {
+  background: var(--amber-bg);
+  border-color: var(--amber-border);
+  color: var(--amber);
+}
+
+.risk-flag--high {
+  background: var(--red-bg);
+  border-color: var(--red-border);
+  color: var(--red);
+}
+
+.risk-flag__badge {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  white-space: nowrap;
+  margin-top: 1px;
+}
+
+.risk-flag--low .risk-flag__badge { background: var(--green-border); }
+.risk-flag--medium .risk-flag__badge { background: var(--amber-border); }
+.risk-flag--high .risk-flag__badge { background: var(--red-border); }
+
+.risk-flag__description {
+  color: var(--text);
+  line-height: 1.5;
+}
